@@ -12,4 +12,4 @@ Please refer the wiki page material for the better understanding of the course:
 https://github.com/muneeb-mbytes/computerArchitectureCourse/wiki
 
 ## Textbooks
-Computer Organization and Design The Hardware/Software Interface: RISC-V Edition
+Computer Organization and Design The Hardware/Software Interface: RISC-V Edition by  David A. Patterson & John L. Hennessy.
