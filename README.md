@@ -11,5 +11,8 @@ Please refer the wiki page material for the better understanding of the course:
 
 https://github.com/muneeb-mbytes/computerArchitectureCourse/wiki
 
-## Textbooks
+## Textbook
 Computer Organization and Design The Hardware/Software Interface: RISC-V Edition by  David A. Patterson & John L. Hennessy.
+
+##Video
+|[MIPS Video](https://www.youtube.com/watch?v=4TzMyXmzL8M&list=PL59E5B57A04EAE09C)|
