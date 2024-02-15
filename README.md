@@ -1,6 +1,6 @@
 # ComputerArchitectureCourse
 
-Welcome to the Computer Architecture course! 
+Welcome to the Computer Architecture course !
 
 
 
