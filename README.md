@@ -11,7 +11,7 @@ Please refer the Wiki-Page material for the better understanding of the course:
 [Computer Architecture Course](https://github.com/muneeb-mbytes/computerArchitectureCourse/wiki)
 
 ## Textbook
-Computer Organization and Design The Hardware/Software Interface: RISC-V Edition by  David A. Patterson & John L. Hennessy.
+[Computer Organization and Design The Hardware/Software Interface: RISC-V Edition by  David A. Patterson & John L. Hennessy.](https://www.google.co.in/books/edition/Computer_Organization_and_Design_RISC_V/H7wxDQAAQBAJ?hl=en&gbpv=0)
 
 ## Video
 [MIPS Video](https://www.youtube.com/watch?v=4TzMyXmzL8M&list=PL59E5B57A04EAE09C)
