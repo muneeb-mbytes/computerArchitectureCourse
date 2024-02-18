@@ -4,6 +4,7 @@ Welcome to the Computer Architecture course !
 
 
 This course aims at introducing the concept of Computer Architecture. It mostly focuses on MIPS architecture whereas topics such as Computer Arithmetic, Pipelining,  and I/O Organisation are given utmost attention. The course also features lab tutorials mostly based upon MIPS Assembly and also this course contains resources and materials for the Computer Architecture, providing an in-depth exploration of the fundamental principles and design concepts that govern the organization and operation of computer systems, more specifically with the RISC-V architecture and MIPS architecture.
+RISC-V offers a unique set of features that allow users to customize and optimize both software and hardware for specific use cases, resulting in faster development cycles and better design tradeoffs for performance, power and area.
 
 Please refer the Wiki-Page material for the better understanding of the course:
 
