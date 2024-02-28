@@ -8,7 +8,7 @@ This course aims at introducing the concept of Computer Architecture. It mostly 
 RISC-V offers a unique set of features that allow users to customize and optimize both software and hardware for specific use cases, resulting in faster development cycles and better design tradeoffs for performance, power and area.
 MIPS (Million Instruction Per Second)  is a type of microprocessor architecture that utilizes a  RISC (reduced instruction set computing) approach. In simpler terms, it's a way of organizing how a computer's processor works, focusing on simplicity and speed. MIPS emphasizes high clock speed and efficient pipelining, making it ideal for high-throughput applications. Pipelining in MIPS is a technique used to improve the performance of the processor.
 
-Please refer the Wiki-Page material for the better understanding of the course:
+Please refer the Wiki-Page material for the better understanding of the course :
 
 
 [Computer Architecture Course](https://github.com/muneeb-mbytes/computerArchitectureCourse/wiki)
